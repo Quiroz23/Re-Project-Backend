@@ -37,9 +37,6 @@ ENV/
 **/migrations/*
 
 
-config/settings/*.pyc
-config/settings/local_settings.py
-
 
 
 
