@@ -87,7 +87,7 @@ La API está diseñada siguiendo los principios REST, utilizando verbos HTTP est
 | **Stats** | `/api/docs/statistics/` | Dashboard de métricas de uso | Admin/Director |
 | **Academic** | `/api/academic/career/` | Listado de estructura académica | Auth |
 
----**
+---
 
 ## ✒️ Autores
 
