@@ -1,4 +1,4 @@
-# 🎓 Sistema de Gestión y Repositorio de Tesis (Backend)
+* 🎓 Sistema de Gestión y Repositorio de Tesis (Backend)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.0+-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -87,7 +87,7 @@ La API está diseñada siguiendo los principios REST, utilizando verbos HTTP est
 | **Stats** | `/api/docs/statistics/` | Dashboard de métricas de uso | Admin/Director |
 | **Academic** | `/api/academic/career/` | Listado de estructura académica | Auth |
 
----
+---**
 
 ## ✒️ Autores
 
